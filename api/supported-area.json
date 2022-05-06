@@ -1,15 +1,15 @@
 [
-  { "name": "Kota Kediri" },
-  { "name": "Kabupaten Kediri" },
-  { "name": "Kabupaten Blitar" },
-  { "name": "Kota Blitar" },
-  { "name": "Kabupaten Tulungagung" },
-  { "name": "Kabupaten Trenggalek" },
-  { "name": "Kabupaten Nganjuk" },
-  { "name": "Kabupaten Malang" },
-  { "name": "Kota Malang" },
-  { "name": "Kabupaten Madiun" },
-  { "name": "Kota Madiun" },
-  { "name": "Kota Yogyakarta" },
-  { "name": "Kota Surakarta" }
+  "Kota Kediri",
+  "Kabupaten Kediri",
+  "Kabupaten Blitar",
+  "Kota Blitar",
+  "Kabupaten Tulungagung",
+  "Kabupaten Trenggalek",
+  "Kabupaten Nganjuk",
+  "Kabupaten Malang",
+  "Kota Malang",
+  "Kabupaten Madiun",
+  "Kota Madiun",
+  "Kota Yogyakarta",
+  "Kota Surakarta"
 ]
